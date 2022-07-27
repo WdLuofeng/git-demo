@@ -10,8 +10,5 @@ hello atguigui！
 hello atguigui！
 hello atguigui！
 hello atguigui！
-hello atguigui！
-hello atguigui！
-hello atguigui！
-hello atguigui！
-hello s`tguigui！
+hello atguigui! 
+hello atguigui！hot-fix text
