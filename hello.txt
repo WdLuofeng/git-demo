@@ -1,9 +1,8 @@
-hello atguigui！2222222222222
-hello atguigui! 3333333333333
+hello atguigui！22222
+hello atguigui! 33333
 hello atguigui！
 hello atguigui！
-hello atguigui！
-hello atguigui！
+hello atguigui！ hello atguigui！
 hello atguigui！
 hello atguigui！
 hello atguigui！
@@ -16,10 +15,3 @@ hello atguigui！
 hello atguigui！
 hello atguigui！
 hello s`tguigui！
-sssss
-wqs::wq
-
-++++++++++++ssw	q
-
-
-
